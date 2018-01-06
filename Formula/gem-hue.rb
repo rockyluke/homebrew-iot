@@ -51,7 +51,7 @@ load "#{file}"
   end
 
   test do
-    system "#{bin}/hue"
+    system "#{bin}/hue", 'help'
   end
 end
 # EOF
