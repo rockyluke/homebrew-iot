@@ -9,9 +9,11 @@ before_install:
 install:
   - ruby --version
   - brew install hue
+  - brew install socos
 
 script:
   - hue help
+  - socos help
 
 notifications:
   email:

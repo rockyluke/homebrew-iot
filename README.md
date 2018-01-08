@@ -14,6 +14,7 @@ IoT formulae for the Homebrew package manager including the following tools.
 Find a complete and detailed list in [FORMULAE][formulae].
 
 * hue
+* socos
 
 ## Usage
 
